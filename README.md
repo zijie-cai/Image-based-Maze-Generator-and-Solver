@@ -14,7 +14,7 @@ Here is an example of a generated maze image input for the solver and the output
 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/zijie-cai/Image-based-Maze-Generator-and-Solver/assets/74931355/116af2c3-e94d-4475-a518-c993ebe75bd8" alt="Generated maze" width="200">
-  <span style="margin: 0 15px;"> ➡️ </span>
+  <span style="margin: -50px 15px 0 15px;"> ➡️ </span>
   <img src="https://github.com/zijie-cai/Image-based-Maze-Generator-and-Solver/assets/74931355/5c766d0d-7ed3-486a-bb1c-e3f5871853f1" alt="Solved maze" width="200">
 </div>
 
