@@ -44,16 +44,16 @@ Here is an example of a generated maze image input for the solver and the output
 **Note:** To successfully run the code, you **must** complete the installation and setup steps.
 
 ## 🏃‍♂️ How to Run
-Clone or download the repository and open the corresponding Jupyter Notebook files to run the generator and solver.
+Clone or download the repository and open the corresponding Jupyter Notebook files to run the generator and solver and follow the step-by-step instructions from there.
 
 ## 🌟 Features
-- Maze Generation
-- Maze Solving
+- Maze Image Generation
+- Image-based Maze Solving
 - Visual Demonstrations
 - Configurable Parameters
 
 ## 🚀 Future Updates
-We are planning to expand the project to include different shapes and types of mazes, as well as exploring additional pathfinding algorithms.
+Planning to add obstacles and different maze shapes. Also looking to include more pathfinding algorithms with visualizations.
 
 ## 👏 Contributions
 Open to contributions! If you have suggestions or improvements, feel free to fork the repo and create a pull request.
