@@ -1,0 +1,12 @@
+name: env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - opencv
+  - pygame
+  - numpy
+  - nb_conda_kernels 
+  - ipywidgets
+  - moviepy
+  - pillow
