@@ -4,7 +4,8 @@
 This repository showcases an intuitive image-based maze generator and solver. The project employs fundamental algorithms and offers detailed Jupyter Notebook guides for both the generator and solver. Engaging visualizations make understanding the algorithms both enjoyable and informative.
 
 ## 📸 Visual Demonstrations
-Here is a live visualization of how the maze is being generated:
+Here is a live visualization of how the maze is being generated: 
+
 ![maze](https://github.com/zijie-cai/Image-based-Maze-Generator-and-Solver/assets/74931355/f71ae74c-dfc3-4561-9910-cb3e7e362659)
 
 
