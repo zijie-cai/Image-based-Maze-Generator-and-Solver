@@ -9,8 +9,8 @@ Here is a live visualization of how the maze is being generated:
 
 ![maze](https://github.com/zijie-cai/Image-based-Maze-Generator-and-Solver/assets/74931355/f71ae74c-dfc3-4561-9910-cb3e7e362659)
 
-Here is an example of a generated maze image input for the solver and <br> 
-the output image with the shortest path marked from the solver:
+Here is an example of a generated maze image input for the solver <br> 
+and the output image with the shortest path marked from the solver:
 <br>
 
 ![maze_input](https://github.com/zijie-cai/Image-based-Maze-Generator-and-Solver/assets/74931355/116af2c3-e94d-4475-a518-c993ebe75bd8)
