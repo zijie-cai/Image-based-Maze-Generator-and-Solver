@@ -11,6 +11,7 @@ Here is a live visualization of how the maze is being generated:
 
 Here is an example of a generated maze image input for the solver and the output image with the shortest path marked from the solver:
 <br>
+
 ![maze_input](https://github.com/zijie-cai/Image-based-Maze-Generator-and-Solver/assets/74931355/116af2c3-e94d-4475-a518-c993ebe75bd8)
 ![maze_output](https://github.com/zijie-cai/Image-based-Maze-Generator-and-Solver/assets/74931355/5c766d0d-7ed3-486a-bb1c-e3f5871853f1)
 
