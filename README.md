@@ -43,7 +43,10 @@ Here is an example of a generated maze image input for the solver and the output
 **Note:** To successfully run the code, you **must** complete the installation and setup steps.
 
 ## 🏃‍♂️ How to Run
-Simply clone or download the repository. Open `Generator.ipynb` to run the maze generator and `Solver.ipynb` to run the maze solver.
+Step-by-step guides for both generating mazes and solving them are available in the Jupyter Notebooks (`Generator.ipynb` and `Solver.ipynb`).
+
+1. Clone or download the repository.
+2. Open the corresponding Jupyter Notebook files (`Generator.ipynb` for maze generation and `Solver.ipynb` for maze solving).
 
 ## 🌟 Features
 - Maze Image Generation
