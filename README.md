@@ -20,7 +20,6 @@ Here is an example of a generated maze image input for the solver and the output
 - OpenCV
 - Pygame
 - NumPy
-- Jupyter Notebook
 
 ## 🛠 Installation and Setup
 - Create and activate a Python virtual environment (venv/conda):
@@ -44,7 +43,7 @@ Here is an example of a generated maze image input for the solver and the output
 **Note:** To successfully run the code, you **must** complete the installation and setup steps.
 
 ## 🏃‍♂️ How to Run
-Simply clone or download the repository and open the corresponding Jupyter Notebook files to run the generator and solver. 
+Simply clone or download the repository. Open `Generator.ipynb` to run the maze generator and `Solver.ipynb` to run the maze solver.
 
 ## 🌟 Features
 - Maze Image Generation
